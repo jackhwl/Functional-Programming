@@ -45,3 +45,20 @@ function filter(predicateFn, array) {
     if (n % 5 === 0) return 'buzz';
     return n;
   }, wholes)
+
+  sum = reduce(
+    (accumulator, value) => {
+      // TODO your code here
+      return accumulator + value;
+    },
+    0,
+    wholes
+  )
+
+  max = reduce(
+    (acc, val) => {
+      return acc > val ? acc : val;
+    }, // TODO replace this reducerFn
+    0, // TODO replace this initialValue
+    [7, 1, 3, 5, 6, 2, 8, 10, 0, 4, 9]
+  )
