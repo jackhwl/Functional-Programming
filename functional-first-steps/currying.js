@@ -1,0 +1,1 @@
+curriedQuote = name => year => text => quote(name, year, text);
