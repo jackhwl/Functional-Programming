@@ -3,3 +3,4 @@
 [High Order](https://observablehq.com/@anjana/exercise-filter-map-reduce?collection=@anjana/functional-javascript-first-steps)
 [Closures & Currying](https://observablehq.com/@anjana/exercise-closures-currying?collection=@anjana/functional-javascript-first-steps)
 [Pipelining](https://observablehq.com/@anjana/exercise-function-composition?collection=@anjana/functional-javascript-first-steps)
+[Mutation](https://observablehq.com/@anjana/exercise-avoiding-mutation?collection=@anjana/functional-javascript-first-steps)
